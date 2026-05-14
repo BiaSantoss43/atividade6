@@ -34,4 +34,3 @@ elif nota >= 4:
     print("Desempenho regular.")
 else:
     print("Desempenho ruim.")
-
